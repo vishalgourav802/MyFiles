@@ -1,0 +1,5 @@
+@echo off
+set /p exam=Enter Exam Name for Previous Year Papers: 
+set query=filetype:pdf "%exam% previous year question paper"
+set query=%query: =+%
+start "" "https://www.google.com/search?q=%query%"
