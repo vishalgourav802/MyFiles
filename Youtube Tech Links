@@ -3,3 +3,4 @@ https://youtu.be/0MbOUjeWzFI?si=kLV72fwvdEpm12V4      (html to pdf)
 https://youtu.be/GgjRAM-R7vQ?si=vfRbqZLLE75Vbx7K       (Backup  Data Transfer Mobile to Pc) Firstly download SDK PLATFORM TOOl and Setup By using Developer Mode then this is the code-   adb devices when showing devices then again this code-  adb pull /sdcard/ "(Where want to paste path)"
 https://youtu.be/ZAkEA7exuQY?si=1B4aHgdrGGcpA_1r       (Data Transfer Mobile to Pc @ Pc to Mobile) 
 https://youtu.be/fK64dQtSqag?si=BJwiO-JkCm2dKzrM         External harddisk file transfer firstly run cmd in run in adminstration then this is the code- robocopy s/ "(source path)" "(Where want to paste path)"
+https://youtu.be/pldFPTnOCGM?si=G0vABQXItH8QWa8W      (For Advance windows)
